@@ -19,7 +19,6 @@
         <h1 class="text-xl mt-16 mb-5 font-bold leading-tight text-center tracking-tight md:text-3xl text-white">
             Login to Smarthome
         </h1>
-        <img class="mx-auto justify-center w-56" src="logo_smk.png" alt="SMK Negeri 3 Metro">
         <form class="mx-auto max-w-lg md:px-24" action="verlog.php" method="post">
             <div class="mb-4">
                 <label for="username" class="block text-md font-medium text-white">Username</label>
