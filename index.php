@@ -159,7 +159,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" height="22" fill="white" class="bi bi-house-fill lg:h-[24px] xl:h-[23px]" viewBox="0 0 16 16">
                     <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
                     <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
-                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Ruang Guru RPL</span>
+                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Ruang 1</span>
             </div>
             <div class="grid grid-cols-1 md:hidden mb-4">
                 <table id="data1" class="table-auto mx-auto text-[14px]"></table>
@@ -270,7 +270,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" height="22" fill="white" class="bi bi-house-fill lg:h-[24px] xl:h-[23px]" viewBox="0 0 16 16">
                     <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
                     <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
-                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Lab RPL A</span>
+                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Ruang 2</span>
             </div>
             <div class="grid grid-cols-1 md:hidden my-5">
                 <table id="data2" class="table-auto mx-auto text-[14px]"></table>
@@ -444,7 +444,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" height="22" fill="white" class="bi bi-house-fill lg:h-[24px] xl:h-[23px]" viewBox="0 0 16 16">
                     <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z"/>
                     <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
-                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Lab RPL B</span>
+                </svg>&ensp;<span class="text-[14px] md:mt-0 translate-y-[6px]">Ruang 3</span>
             </div>
             <div class="grid grid-cols-1 md:hidden my-5">
                 <table id="data3" class="table-auto mx-auto text-[14px]"></table>
