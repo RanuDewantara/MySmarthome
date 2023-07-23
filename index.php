@@ -672,7 +672,7 @@
 
                 function getDataRuang() {
                     $.ajax({
-                        url: "ruang_guru.php",
+                        url: "ruang1.php",
                         type: "GET",
                         success: function (response) {
                             $('#data1').html(response);
@@ -684,7 +684,7 @@
                     });
 
                     $.ajax({
-                        url: "lab_rpl_a.php",
+                        url: "ruang2.php",
                         type: "GET",
                         success: function (response) {
                             $('#data2').html(response);
@@ -696,7 +696,7 @@
                     });
 
                     $.ajax({
-                        url: "lab_rpl_b.php",
+                        url: "ruang3.php",
                         type: "GET",
                         success: function (response) {
                             $('#data3').html(response);
